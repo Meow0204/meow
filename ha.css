@@ -158,7 +158,7 @@
     cursor: pointer;
 }
 .image span{
-  border-radius: 10px;
+  border-radius: 4px;
     position: absolute;
     background: url("https://i.pinimg.com/736x/fe/4a/11/fe4a1197c2a70bc16cd999338f7230eb.jpg");
     background-position: center;
